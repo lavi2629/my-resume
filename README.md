@@ -66,7 +66,7 @@ texlive-ragged2e texlive-enumitem texlive-tcolorbox texlive-academicons
 
 1. **Navigate to your LaTeX directory** where your `resume.tex` file is located:
    ```bash
-   cd <your-latex-directory>
+   cd ./latex
    ```
 
 2. **Compile the resume** using `lualatex`:
